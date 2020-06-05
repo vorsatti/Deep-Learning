@@ -5,3 +5,7 @@ I trained a deep neural network using the fast.ai library, which works on top of
 ## IPython Notebooks:
 
 - [Movies Recommendation System](https://nbviewer.jupyter.org/github/vorsatti/Deep-Learning/blob/master/Collaborative%20filtering/Movies%20Recommendation%20System.ipynb)
+
+## Principal components in 2D
+
+![](components_1and3.png)
