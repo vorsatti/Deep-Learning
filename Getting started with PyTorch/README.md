@@ -10,5 +10,5 @@ For a deep understanding of how neural networks work I think is better to build 
 
 ## Overfitting vs Dropout
 
-![](Overfitting.png)
-![](Dropout.png)
+![](BeforeDropout.png)
+![](AfterDropout.png)
